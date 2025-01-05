@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # News Aggregator
 
 This is a news aggregator project built using the MERN stack (MongoDB, Express, React, Node.js) and the NewsAPI.org API. The project allows users to view news articles from various sources.
@@ -31,3 +32,7 @@ Once the project is set up and running, you can view news articles from various 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+=======
+# newsapp
+This is a  mern project repository
+>>>>>>> bbfeb3616a535637b4ef256ae929e3f71c31724a
