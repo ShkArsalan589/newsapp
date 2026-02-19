@@ -10,7 +10,6 @@ This repository contains both the frontend UI and backend API server, making it 
 newsapp/
 ├── client/        # React frontend
 ├── server/        # Express + Node backend
-├── .gitignore
 ├── README.md
 └── package.json
 
