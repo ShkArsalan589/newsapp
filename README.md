@@ -1,4 +1,4 @@
-# News App (MERN Stack)
+# News App
 A modern full-stack news application built using the MERN stack — MongoDB, Express.js, React.js, and Node.js.
 This project integrates with the NewsAPI.org service to fetch and display the latest news from a variety of sources in real time.
 
